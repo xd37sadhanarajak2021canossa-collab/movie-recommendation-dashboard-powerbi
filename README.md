@@ -31,5 +31,3 @@ To analyze movie ratings data and build an interactive dashboard to derive insig
 - Time-based trends
 - Interactive filtering
 
-## Video Demo
-(Add your video link here)
